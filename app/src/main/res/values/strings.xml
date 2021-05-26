@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Película</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_movies">Películas</string>
+</resources>
